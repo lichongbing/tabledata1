@@ -8394,6 +8394,11 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.nlark.com/vue-hot-reload-api/download/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
   integrity sha1-UylVzB6yCKPZkLOp+acFdGV+CPI=
 
+vue-i18n@^8.18.1:
+  version "8.25.0"
+  resolved "https://registry.nlark.com/vue-i18n/download/vue-i18n-8.25.0.tgz#1037d9295fa2845a230b771de473481edb2cfc4c"
+  integrity sha1-EDfZKV+ihFojC3cd5HNIHtss/Ew=
+
 "vue-loader-v16@npm:vue-loader@^16.1.0":
   version "16.5.0"
   resolved "https://registry.nlark.com/vue-loader/download/vue-loader-16.5.0.tgz?cache=0&sync_timestamp=1628666767864&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvue-loader%2Fdownload%2Fvue-loader-16.5.0.tgz#09c4e0712466899e34b99a686524f19165fb2892"
@@ -8439,6 +8444,11 @@ vue@^2.6.11:
   version "2.6.14"
   resolved "https://registry.nlark.com/vue/download/vue-2.6.14.tgz?cache=0&sync_timestamp=1629824252933&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvue%2Fdownload%2Fvue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
+
+vxe-table@^2.10.24:
+  version "2.10.24"
+  resolved "https://registry.nlark.com/vxe-table/download/vxe-table-2.10.24.tgz#fcba06b7c9bfeab17693e586dd98f38d52a7e295"
+  integrity sha1-/LoGt8m/6rF2k+WG3ZjzjVKn4pU=
 
 watchpack-chokidar2@^2.0.1:
   version "2.0.1"
@@ -8702,6 +8712,16 @@ ws@^6.0.0, ws@^6.2.1:
   integrity sha1-3Vzb1XqZeZFgl2UtePHMX66gwy4=
   dependencies:
     async-limiter "~1.0.0"
+
+xe-ajax@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.npm.taobao.org/xe-ajax/download/xe-ajax-4.0.5.tgz#37690f89a37d9b5f54ef2ae4efd3e92570f32df3"
+  integrity sha1-N2kPiaN9m19U7yrk79PpJXDzLfM=
+
+xe-utils@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.nlark.com/xe-utils/download/xe-utils-3.3.1.tgz#77af254b12d5ae2d4d3f32c3df7e3a5ccde1fad8"
+  integrity sha1-d68lSxLVri1NPzLD3346XM3h+tg=
 
 xtend@^4.0.0, xtend@~4.0.1:
   version "4.0.2"
